@@ -1,3 +1,4 @@
+# PLEASE USE https://github.com/luau/UniversalSynSaveInstance if it's up
 > [!IMPORTANT]
 > Independent, unofficial project. Not affiliated with, endorsed by, or officially connected to Roblox Corporation. "Luau" is a trademark of Roblox Corporation.
 <p align="center">
